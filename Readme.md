@@ -5,7 +5,7 @@ Description for Degeneres Test goes here.
 ### Installation
 
 ```sh
-go get -u -v github.com/rms1000watt/degeneres-test
+go get -u -v github.com/Cori1109/degeneres-test
 ```
 
 ### Usage
@@ -24,4 +24,4 @@ docker run -itd -p 443:443 docker.io/rms1000watt/degeneres-test:v0.1.0 [ARGS...]
 ```
 
 
-**Built using [Degeneres](https://www.github.com/rms1000watt/degeneres)**
+**Built using [Degeneres](https://www.github.com/Cori1109/degeneres)**
