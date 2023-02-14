@@ -3,8 +3,8 @@ package ballpark
 import (
 	"net/http"
 
-	"github.com/rms1000watt/degeneres-test/data"
-	"github.com/rms1000watt/degeneres-test/helpers"
+	"github.com/Cori1109/degeneres-test/data"
+	"github.com/Cori1109/degeneres-test/helpers"
 
 	log "github.com/sirupsen/logrus"
 )

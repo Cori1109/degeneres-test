@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/rms1000watt/degeneres-test/ballpark"
-	"github.com/rms1000watt/degeneres-test/helpers"
+	"github.com/Cori1109/degeneres-test/ballpark"
+	"github.com/Cori1109/degeneres-test/helpers"
 
 	log "github.com/sirupsen/logrus"
 )

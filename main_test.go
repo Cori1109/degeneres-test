@@ -13,9 +13,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rms1000watt/degeneres-test/ballpark"
-	"github.com/rms1000watt/degeneres-test/data"
-	"github.com/rms1000watt/degeneres-test/server"
+	"github.com/Cori1109/degeneres-test/ballpark"
+	"github.com/Cori1109/degeneres-test/data"
+	"github.com/Cori1109/degeneres-test/server"
 
 	log "github.com/sirupsen/logrus"
 )
